@@ -119,7 +119,7 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💞" }, async (dest, zk
 
 
 
-    let message = "Yowaimo!!!👋 welcome to *V-Arima* ! here is the dev :\n\n";
+    let message = "SALUTATIONS!!!👋 welcome to *V-Arima* ! here is the dev :\n\n";
 
     for (const dev of devs) {
 
