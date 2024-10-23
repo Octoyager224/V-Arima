@@ -15,7 +15,7 @@ async function uploadImageToImgur(imagePath, clientId) {
     const config = {
       method: 'post',
       maxBodyLength: Infinity,
-      url: 'https://imgur.com/D4C8P63',
+      url: 'https://api.imgur.com/3/image',
       aheaders: headers,
       data: data
     };
